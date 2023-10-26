@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>121048195883-9s1khiln37dts0egr2f1gh9590j9b6m8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.121048195883-9s1khiln37dts0egr2f1gh9590j9b6m8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>121048195883-4s0blp161b0daqfsppkd2ec1kvuiua2r.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMe3HecsflkLrzbnNIw43-PzQxcgwIY2U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>121048195883</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.hocachat</string>
+	<key>PROJECT_ID</key>
+	<string>pdfwithhoca</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pdfwithhoca.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:121048195883:ios:09d2e9e37c530a78385b6e</string>
+</dict>
+</plist>
