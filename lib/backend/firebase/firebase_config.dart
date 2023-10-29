@@ -5,12 +5,13 @@ Future initFirebase() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
         options: FirebaseOptions(
-            apiKey: "AIzaSyAWAaLbCUbXxmS9V656iHTBEEcwyS3fcqo",
-            authDomain: "pdfwithhoca.firebaseapp.com",
-            projectId: "pdfwithhoca",
-            storageBucket: "pdfwithhoca.appspot.com",
-            messagingSenderId: "121048195883",
-            appId: "1:121048195883:web:cc94fb27dddb6611385b6e"));
+            apiKey: "AIzaSyD7qi_8lteZvvhYWpJQXKIBL821yBf-Swg",
+            authDomain: "hocamathbot.firebaseapp.com",
+            projectId: "hocamathbot",
+            storageBucket: "hocamathbot.appspot.com",
+            messagingSenderId: "914846844480",
+            appId: "1:914846844480:web:bcc298efe54f2ef2fcc1a5",
+            measurementId: "G-Z57LHRGX73"));
   } else {
     await Firebase.initializeApp();
   }

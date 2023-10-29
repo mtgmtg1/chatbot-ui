@@ -1,4 +1,4 @@
-package com.mycompany.hocachat
+package com.mycompany.hocamathbot
 
 import io.flutter.embedding.android.FlutterActivity
 

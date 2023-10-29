@@ -1,6 +1,6 @@
 {
-    "name": "hocachat",
-    "short_name": "hocachat",
+    "name": "hocamathbot",
+    "short_name": "hocamathbot",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -484,8 +484,9 @@ class _TableWidgetState extends State<TableWidget> {
                                               .simpleSearchResults = TextSearch(
                                             containerMessagesRecordList
                                                 .map(
-                                                  (record) => TextSearchItem(
-                                                      record, [
+                                                  (record) =>
+                                                      TextSearchItem.fromTerms(
+                                                          record, [
                                                     record.message!,
                                                     record.title!,
                                                     record.email!,

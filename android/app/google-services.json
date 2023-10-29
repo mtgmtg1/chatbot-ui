@@ -1,87 +1,26 @@
 {
   "project_info": {
-    "project_number": "121048195883",
-    "project_id": "pdfwithhoca",
-    "storage_bucket": "pdfwithhoca.appspot.com"
+    "project_number": "914846844480",
+    "project_id": "hocamathbot",
+    "storage_bucket": "hocamathbot.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:121048195883:android:8dd499dd72580541385b6e",
+        "mobilesdk_app_id": "1:914846844480:android:e499f74cec80aa32fcc1a5",
         "android_client_info": {
-          "package_name": "com.mycompany.googleedtechai"
+          "package_name": "com.mycompany.hocamathbot"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "121048195883-r0lbof8qbp0ll04174kj4vla9mblgq42.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBDbeJzTV8AK54ZKkNAq4-aqwQDpkvak0o"
+          "current_key": "AIzaSyDa44UjEw_kjghc4gk0GjTEXGDkHkxUtIo"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "121048195883-r0lbof8qbp0ll04174kj4vla9mblgq42.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "121048195883-9s1khiln37dts0egr2f1gh9590j9b6m8.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.mycompany.hocachat"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:121048195883:android:326790d2b95f875b385b6e",
-        "android_client_info": {
-          "package_name": "com.mycompany.hocachat"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "121048195883-4s0blp161b0daqfsppkd2ec1kvuiua2r.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.mycompany.hocachat",
-            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
-          }
-        },
-        {
-          "client_id": "121048195883-r0lbof8qbp0ll04174kj4vla9mblgq42.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBDbeJzTV8AK54ZKkNAq4-aqwQDpkvak0o"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "121048195883-r0lbof8qbp0ll04174kj4vla9mblgq42.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "121048195883-9s1khiln37dts0egr2f1gh9590j9b6m8.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.mycompany.hocachat"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
